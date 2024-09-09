@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://okbcse.github.io/sitemap.html.gz
+Sitemap: https://okbcse.github.io/app/sitemap.html.gz
+Sitemap: https://okbcse.github.io/assets/sitemap.html.gz
+Sitemap: https://okbcse.github.io/css/sitemap.html.gz
+Sitemap: https://okbcse.github.io/includes/sitemap.html.gz
+Sitemap: https://okbcse.github.io/item/sitemap.html.gz
+Sitemap: https://okbcse.github.io/src/sitemap.html.gz
